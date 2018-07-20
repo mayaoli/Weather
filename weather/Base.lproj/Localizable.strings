@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by KUBRA on 2017-01-12.
+  Copyright © 2017 KUBRA. All rights reserved.
+*/
+
+"TurnOn" = "Please turn on location services";
+"TurnOnMsg" = "This app needs location services in order to report the weather for your current location.\n Go to Settings → Privacy → Location Services and turn location services on.";
+
+"ServiceDisabled" = "Location services for this app are disabled";
+"ServiceDisabledMsg" = "In order to get your current location, please open Settings for this app, choose \"Location\"  and set \"Allow location access\" to \"While Using the App\".";
+
+"Error" = "Error";
+"ServiceNotAvailable" = "The weather service isn't available.";
+
+"GPSFailed" = "Can't determine your location";
+"GPSFailedMsg" = "The GPS and other location services aren't responding.";
+
+"Cancel" = "Cancel";
+"OpenSettings" = "Open Settings";

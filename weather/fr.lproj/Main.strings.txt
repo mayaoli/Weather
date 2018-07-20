@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "city"; ObjectID = "3Lj-2F-TdY"; */
+"3Lj-2F-TdY.text" = "city";
+
+/* Class = "UILabel"; text = "weather"; ObjectID = "4kC-46-K2L"; */
+"4kC-46-K2L.text" = "weather";
+
+/* Class = "UIButton"; normalTitle = "Refresh"; ObjectID = "DIC-A5-rdf"; */
+"DIC-A5-rdf.normalTitle" = "Rafraîchir";

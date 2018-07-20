@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by KUBRA on 2017-01-12.
+  Copyright © 2017 KUBRA. All rights reserved.
+*/
+
+"TurnOn" = "Veuillez activer les services de localisation";
+"TurnOnMsg" = "Cette application nécessite des services de localisation afin de rapporter la météo de votre position actuelle. \ N Accédez à Paramètres → Confidentialité → Services de localisation et services de localisation.";
+
+"ServiceDisabled" = "Les services de localisation de cette application sont désactivés";
+"ServiceDisabledMsg" = "Afin d 'obtenir votre position actuelle, ouvrez Paramètres pour cette application, choisissez \" Emplacement \"et définissez \" Autoriser accès emplacement \"à \" Tout en utilisant l' App \".";
+
+"Error" = "Erreur";
+"ServiceNotAvailable" = "Le service météorologique n'est pas disponible.";
+
+"GPSFailed" = "Impossible de déterminer votre position";
+"GPSFailedMsg" = "Le GPS et les autres services de localisation ne répondent pas.";
+
+"Cancel" = "Annuler";
+"OpenSettings" = "Ouvrir les paramètres";

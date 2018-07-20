@@ -1,0 +1,15 @@
+PODS:
+  - GoogleAnalytics (3.17.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - GoogleAnalytics (= 3.17.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: d8404d4250da6aad3f04be0b7f4c74d61262f35d
+
+COCOAPODS: 1.2.0

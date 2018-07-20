@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Weather
+
+  Created by KUBRA on 2017-01-13.
+  Copyright © 2017 KUBRA. All rights reserved.
+*/
+
+
+"NSLocationWhenInUseUsageDescription" = "This app require GPS location. Allow and Refresh.";
